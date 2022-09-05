@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto';
+  font-style: normal;
+}
+body {
+  background: #F2F2F2;
+}
+.display-4 {
+  margin-top: 100px;
+  margin-left: 732px;
+  width: 456px;
+  height: 56px;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 56px;
+}
+.lead {
+  margin-top: 40px;
+  margin-left: 842px;
+  width: 235px;
+  height: 28px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+}
+.container {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  margin-top: 80px;
+  padding: 0px;
+  width: 1140px;
+  height: 911px;
+  left: 390px;
+  top: 304px;  
+}
+.col-4 {
+  margin-right: 30px;
+  background: #FFFFFF;
+}
+.col-4:first-child {
+  margin-left: 390px;
+  background: #FFFFFF;
+}
+.col-4:last-child {
+  margin: 0px;
+  background: #FFFFFF;
+}
+.card-title {
+  margin-top: 50px;
+  margin-left: 93px;
+  width: 174px;
+  height: 42px;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  color: #000000;
+  white-space: nowrap;
+}
+.img-fluid {
+  margin-top: 40px;
+  margin-left: 30px;
+  width: 300px;
+  min-height: 225px;
+  left: 30px;
+  top: 132px;
+}
+.description {
+  width: 300px;
+  margin-top: 30px;
+  margin-left: 30px;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+}
+.price {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 119px;
+  width: 121px;
+  height: 28px;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 28px;
+  color: #000000;
+  text-transform: uppercase;
+}
+.btn {
+  width: 300px;
+  height: 57px;
+  margin-left: 30px;
+  margin-bottom: 30px;
+  background: #2CC34F;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 21px;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  border: none;
+}
+.btn:hover {
+  background: #22943C;
+  border: none;
+}
+.container-fluid {
+  height: 162px;
+  margin-top: 60px;
+  background: #FFFFFF;
+}
+.textPrice {
+  position: absolute;
+  width: 383px;
+  height: 42px;
+  left: 391px;
+  margin-top: 60px;
+  
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 42px;
+}
+.redtext {
+  color: red;
+}
