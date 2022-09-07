@@ -2,19 +2,19 @@ const data = [
     {
             title : 'Продукт 1',
             price : 1200,
-            image : 'IMG/bravo-10.png',
+            image : 'bravo-10.png',
             description : 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis rhoncus mi. Duis ultrices augue nunc, sit amet placerat ligula pretium vel. Aenean eget quam ante. Duis ipsum dui, euismod id tristique id, consectetur vitae enim. Nunc finibus consequat risus, vel tristique ex dapibus et. Proin tempus nulla quis erat blandit vehicula. Duis ipsum dui, euismod id tristique id, consectetur vitae enim. Aliquam quis rhoncus mi.'
     },
     {
             title: 'Продукт 2',
             price: 1400,
-            image : 'IMG/bravo-20.png',
+            image : 'bravo-20.png',
             description : 'Aliquam quis rhoncus mi. Duis ultrices augue nunc, sit amet placerat ligula pretium vel. Aenean eget quam ante. Duis ipsum dui, euismod id tristique id, consectetur vitae enim. Nunc finibus consequat risus, vel tristique ex dapibus et. Proin tempus nulla quis erat blandit vehicula.  Aenean eget quam ante. Duis ipsum dui, euismod id tristique id, consectetur vitae enim.'
     },
     {
             title: 'Продукт 3',
             price: 1600,
-            image : 'IMG/bravo-30.png',
+            image : 'bravo-30.png',
             description : 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis rhoncus mi. Duis ultrices augue nunc, sit amet placerat ligula pretium vel. Aenean eget quam ante.  Proin tempus nulla quis erat blandit vehicula.  Aenean eget quam ante. Duis ipsum dui, euismod id tristique id, consectetur vitae enim.'
         }
     ]
